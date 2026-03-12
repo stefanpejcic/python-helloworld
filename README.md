@@ -1,8 +1,6 @@
 # python-helloworld
 An example Python (flask) application for [OpenPanel](https://github.com/stefanpejcic/OpenPanel)
 
-demo: https://python.openpanel.org/
-
 ### Usage
 
 1. Add domain in OpenPanel
