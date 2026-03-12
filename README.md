@@ -1,6 +1,7 @@
 # python-helloworld
 An example Python (flask) application for OpenPanel
 
+demo: https://python.openpanel.org/
 
 ## Usage
 
