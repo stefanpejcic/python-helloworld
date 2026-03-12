@@ -3,7 +3,7 @@ An example Python (flask) application for OpenPanel
 
 demo: https://python.openpanel.org/
 
-## Usage
+### Usage
 
 1. Add domain in OpenPanel
 2. Navigate to **FileManager** and open the domain folder (docroot)
