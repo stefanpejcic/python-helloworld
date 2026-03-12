@@ -14,6 +14,8 @@ demo: https://python.openpanel.org/
 6. Click on 'Start Installation' and wait for process to finish.
 7. Test by opening the domain in your browser.
 
+---
+
 ### NodeJS
 
 See also [nodejs-helloworld](https://github.com/stefanpejcic/nodejs-helloworld)
